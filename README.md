@@ -23,7 +23,7 @@ Bem-vindo ao meu espaço no GitHub! Sou **Fernando dos Santos Claro**, um entusi
 ### Ferramentas
 - Visual Studio Code
 - Git & GitHub
-- 
+- Chat GPT 4o e 4o mini
 - Notion para organização
 
 ### Aprendendo
