@@ -6,7 +6,7 @@ Bem-vindo ao meu espaço no GitHub! Sou **Fernando dos Santos Claro**, um entusi
 
 ## 🚀 Sobre mim
 - 📌 **Brasileiro**, de Porto Alegre/RS
-- 🎓 **Formação em Direito** com foco em IA e automação
+- 🎓 **Formação em Direito** pela PUCRS.
 - 💻 **Estudante de ADS** e apaixonado por tecnologia
 - 🔄 **Transição de carreira** do Direito para a Programação
 - 🔍 Explorando **C#**, **Python** e **JavaScript**
