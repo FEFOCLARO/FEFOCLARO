@@ -47,7 +47,7 @@ Após anos de experiência no Direito, percebi que minha paixão estava na inter
 ---
 
 ## 🌐 Conecte-se Comigo
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario/)
+- [LinkedIn](https://www.linkedin.com/in/fernando-claro-312b77214/)
 - [Portfólio (em breve)](https://seu-portfolio.com)
 
 Siga minha jornada enquanto aprendo, crio e contribuo para a comunidade tech. 🚀
