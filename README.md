@@ -9,7 +9,7 @@ Bem-vindo ao meu espaço no GitHub! Sou **Fernando dos Santos Claro**, um entusi
 - 🎓 **Formação em Direito** pela PUCRS.
 - 💻 **Estudante de ADS** e apaixonado por tecnologia
 - 🔄 **Transição de carreira** do Direito para a Programação
-- 🔍 Explorando **C#**, **Python** e **JavaScript**
+- 🔍 Explorando **C#**, **Python** e **JavaScript/Typescript**
 - 🌐 Aspirante a **Desenvolvedor Fullstack**
 
 ---
@@ -18,17 +18,19 @@ Bem-vindo ao meu espaço no GitHub! Sou **Fernando dos Santos Claro**, um entusi
 ### Linguagens
 - **C#** – Exploro o universo do .NET
 - **Python** – Ideal para automação e análise de dados
-- **JavaScript** – Fundamento essencial para o desenvolvimento web
+- **JavaScript/Typescript** – Fundamento essencial para o desenvolvimento web
 
 ### Ferramentas
 - Visual Studio Code
+- Linux (Ubuntu)
 - Git & GitHub
-- Chat GPT 4o e 4o mini
-- Notion para organização
+- Deepseek e Claude
+- Notion e Obsidian para organização
 
 ### Aprendendo
 - Backend com **Node.js**
 - Desenvolvimento Frontend com **React**
+- 
 - Frameworks e ferramentas modernas para desenvolvimento Fullstack
 
 ---
